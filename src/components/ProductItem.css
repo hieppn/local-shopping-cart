@@ -1,0 +1,21 @@
+.card{
+    width: 18rem;
+}
+.c button{
+    width: 100px;
+    height: 30px;
+    margin-right: 0px;
+}
+.a{
+    border: #ccc;
+    text-align: center;
+    
+}
+.txt{
+    color: brown;
+    margin-left: -55px;
+}
+.az {
+    width: 20px;
+    height: 20px;
+}
